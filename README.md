@@ -1,1 +1,1 @@
-some scripts i wrote whilst learning/practising python.
+some scripts i wrote whilst learning/practicing python.
